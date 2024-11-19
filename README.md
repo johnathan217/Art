@@ -7,3 +7,5 @@ I'm into painting:
 <img src="https://github.com/user-attachments/assets/dcd7ffe6-be7a-450d-aada-30d69a6b8731">
 
 <img src="https://github.com/user-attachments/assets/197e28b8-fc95-4b24-a48e-cff0e169f5d7" width="400">
+
+[View Sketchbook](sketchbook.md)
